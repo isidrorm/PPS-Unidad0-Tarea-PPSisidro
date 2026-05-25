@@ -1,0 +1,23 @@
+# mkdocs.yml
+
+# -------------------------------------------------------------
+# CONFIGURACIÓN GENERAL DEL SITIO
+# -------------------------------------------------------------
+site_name: PPS-Unidad 0 - Tarea Isidro
+
+# -------------------------------------------------------------
+# ESTRUCTURA DE NAVEGACIÓN (MENÚ)
+# -------------------------------------------------------------
+
+nav:
+  - Inicio: index.md
+  - Git: git.md
+  - GitHub Actions: gitActions.md
+  - GitHub Pages: gitPages.md
+  - Docker: docker.md
+  - Conclusiones: conclusiones.md
+
+# -------------------------------------------------------------
+# DIRECTORIOS
+# -------------------------------------------------------------
+doc_dir: docs 
